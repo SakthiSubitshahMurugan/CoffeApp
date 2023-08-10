@@ -1,0 +1,6 @@
+module Pods_CoffeForU {
+  umbrella header "Pods-CoffeForU-umbrella.h"
+
+  export *
+  module * { export * }
+}
